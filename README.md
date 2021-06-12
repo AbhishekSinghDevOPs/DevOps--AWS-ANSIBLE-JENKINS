@@ -1,4 +1,4 @@
-# DevOps AWS-ANSIBLE-JENKINS-gITHUB
+# DevOps AWS-ANSIBLE-JENKINS-GITHUB
 
 ![image](https://user-images.githubusercontent.com/47205003/121778114-13667b80-cbb3-11eb-9b32-141fce334665.png)
 
